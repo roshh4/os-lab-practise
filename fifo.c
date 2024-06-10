@@ -43,4 +43,6 @@ int main()
             }
         }
     }
+    printf("\nTotal no of page faults is %d", pagefaults);
+
 }
